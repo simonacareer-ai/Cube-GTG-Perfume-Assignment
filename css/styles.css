@@ -994,6 +994,7 @@ content: "–";
     cursor: pointer;
     font-size: 16px;
     color: var(--primary);
+    z-index: 1;
 }
   
 .perfume-details-section .gallery .main-image .image-arrow.prev { 
