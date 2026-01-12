@@ -985,7 +985,7 @@ content: "–";
 
 .perfume-details-section .gallery .main-image .image-arrow{
     position: absolute;
-    bottom: 15px;
+    bottom: 25px;
     background: transparent;
     border-radius: 50%;
     border: 1px solid var(--primary);
